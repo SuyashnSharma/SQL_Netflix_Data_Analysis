@@ -1,1 +1,2 @@
 # SQL_Netflix_Data_Analysis
+This SQL project analyzes Netflix user data to uncover insights on viewing habits, subscriptions, content preferences, and revenue generation. It includes queries to identify top-watched movies, most popular genres by category, subscription details, customer demographics, and more. The project also compares trends for movies versus TV shows, evaluates customer access patterns, and ranks cities based on average revenue. A detailed database, 'netflix_database.sql', is provided for implementation in your SQL workbench.
